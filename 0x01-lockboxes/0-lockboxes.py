@@ -17,7 +17,7 @@ def look_next_opened_box(opened_boxes):
 
 
 def canUnlockAll(boxes):
-    """Checkس if all boxes can be opened
+    """Checks if all boxes can be opened
     Args:
         boxes (list): List which contain all the boxes with the keys
     Returns:
